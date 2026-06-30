@@ -6,7 +6,9 @@ Origins Ranks is a server-side addon for FTB Ranks that adds a custom rank condi
 
 * Minecraft 1.21.1
 * NeoForge
+* Architectuary API
 * FTB Ranks
+* FTB Library
 * Origins (IAFEnvoy NeoForge)
 
 ## Condition
